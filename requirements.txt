@@ -1,0 +1,11 @@
+pandas
+numpy
+xgboost
+scikit-learn
+onnxmltools
+skl2onnx
+onnxconverter-common
+shap
+matplotlib
+openpyxl
+imbalanced-learn

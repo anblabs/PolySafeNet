@@ -1,0 +1,92 @@
+# Virtual Environment
+myenv/
+venv/
+env/
+ENV/
+.venv/
+*.py[cod]
+__pycache__/
+*.egg-info/
+dist/
+build/
+
+# Python
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.coverage
+.pytest_cache/
+.tox/
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDE and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+.settings/
+*.iml
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.log
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Data and Large Files
+# data/
+# *.csv
+# *.xlsx
+# *.xls
+# *.db
+# *.sqlite
+
+# Model and Output Files (keep model structure but ignore generated models)
+output/
+*.onnx
+*.pkl
+*.joblib
+*.h5
+*.pb
+*.pth
+*.pt
+model_io/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE-specific
+.vscode/
+.fleet/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+
+# OS-specific
+.AppleDouble
+.LSOverride
+.TemporaryItems
+.Trashes
+ehthumbs.db
